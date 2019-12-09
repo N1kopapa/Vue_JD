@@ -1,4 +1,4 @@
-<template>
+﻿<template>
   <div id="my_cart">
 
     <CartHeaderView></CartHeaderView>
@@ -7,7 +7,7 @@
     <div class="pop" style="display: none">
       <div class="pop_box">
         <div class="del_info">
-          确定要删除该商品吗？
+          ni确定要删除该商品吗？
         </div>
         <div class="del_cancel">
           取消
