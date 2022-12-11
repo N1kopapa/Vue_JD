@@ -14,7 +14,7 @@
     "body-parser": "^1.17.1",
     "cookie-parser": "^1.4.3",
     "cookie-session": "^2.0.0-beta.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysql": "^2.13.0",
     "vue": "^2.5.2",
     "vue-cordova": "^0.1.2",
